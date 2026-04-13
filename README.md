@@ -6,6 +6,7 @@ I run **EtchAre**, where I'm building HR and payroll tools for companies operati
 
 I also build smaller things when an idea won't leave me alone:
 
+- **[EtchAre](https://etchare-staging.web.app/)** : Enterprise grade HRMS with over 15 modules, serverless
 - **[motif](https://motif-vert.vercel.app)** : Pick a design system vibe, export tokens for your AI coding agent. One click to Markdown, JSON, CSS, or Tailwind.
 
 ### What I work with
