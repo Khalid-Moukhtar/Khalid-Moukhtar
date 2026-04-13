@@ -6,7 +6,6 @@ Product manager turned builder. Based in Berlin.
 
 - **[EtchAre](https://etchare-staging.web.app/)** — HR and payroll platform for companies in Germany and Egypt. Multi-country, serverless, 15+ modules.
 - **[motif](https://motif-vert.vercel.app)** — Pick a design system vibe, export tokens for your AI coding agent. One click to Markdown, JSON, CSS, or Tailwind.
-- **[Transkriq](https://www.transkriq.com/)** — Clean transcripts in minutes.
 
 ### What I work with
 
