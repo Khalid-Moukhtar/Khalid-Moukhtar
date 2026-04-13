@@ -9,7 +9,7 @@ Product manager turned builder. Based in Berlin.
 
 ### What I work with
 
-TypeScript, React, Python, Firebase, Supabase, Vite, and whatever the problem calls for.
+TypeScript, React, Python, Firebase, Supabase, Vite, Github, Vercel, and whatever the problem calls for.
 
 ### Elsewhere
 
