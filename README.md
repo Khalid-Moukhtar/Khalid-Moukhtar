@@ -1,6 +1,6 @@
 # Hey, I'm Khalid.
 
-Product manager turned builder. Based in Berlin.
+Product manager turned builder. Based in Berlin. I build products with the power of AI coding.
 
 ### What I'm building
 
